@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.technolearn26.twa",
+        "sha256_cert_fingerprints": ["37:B7:5A:97:96:90:37:A4:0E:1F:3C:26:62:E0:64:83:B6:A3:D2:AE:B6:05:3F:75:7C:68:7A:10:1A:C4:82:EC"]
+      }
+    }]
